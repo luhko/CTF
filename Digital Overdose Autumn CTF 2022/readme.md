@@ -1,1 +1,3 @@
-Rank : 19/714 (team P'HackMan)
+Team : P'HackMan
+
+Rank : 19/714
